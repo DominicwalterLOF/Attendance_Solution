@@ -1,6 +1,11 @@
 # Attendance_Solution
 Attendance Solution
 
+
+a simple tkinther based python program for marking attendance 
+
+hardcode the set in main.py, the program will directly give the absent participants names on pasting the code - check out my attendance for google meet chrome extension repo : link - https://github.com/DominicwalterLOF/
+
 BSD 3-Clause License
 
 Copyright (c) 2021, Dominic Walter
